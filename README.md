@@ -3,6 +3,7 @@
 | :------: | ------ | :------: | :------: |
 | 48 | Rotate Image | Solution ([Java](medium/48-Rotate-Image/Solution.java), [Kotlin](medium/48-Rotate-Image/Solution.kt), [Python](medium/48-Rotate-Image/Solution.py)) | medium | 
 | 102 | Binary Tree Level Order Traversal | BFS ([Java](medium/102-Binary-Tree-Level-Order-Traversal/BFS.java), [Kotlin](medium/102-Binary-Tree-Level-Order-Traversal/BFS.kt), [Python](medium/102-Binary-Tree-Level-Order-Traversal/BFS.py)) | medium | 
+| 127 | Word Ladder | BFS ([Python](hard/127-Word-Ladder/BFS.py)) | hard | 
 | 130 | Surrounded Regions | BFS ([Java](medium/130-Surrounded-Regions/BFS.java), [Kotlin](medium/130-Surrounded-Regions/BFS.kt), [Python](medium/130-Surrounded-Regions/BFS.py)) | medium | 
 | 133 | Clone Graph | DFS ([Java](medium/133-Clone-Graph/DFS.java), [Kotlin](medium/133-Clone-Graph/DFS.kt), [Python](medium/133-Clone-Graph/DFS.py)) | medium | 
 | 199 | Binary Tree Right Side View | DFS ([Java](medium/199-Binary-Tree-Right-Side-View/DFS.java), [Kotlin](medium/199-Binary-Tree-Right-Side-View/DFS.kt), [Python](medium/199-Binary-Tree-Right-Side-View/DFS.py)) | medium | 
